@@ -1,0 +1,9 @@
+# Single-package workspace. The `packages` field is required by pnpm 9, which
+# CosmoHQ's GitHub Pages workflow installs ("packages field missing or empty").
+packages:
+  - "."
+
+# sharp only backs Next's runtime image optimizer, which the static export
+# turns off (images.unoptimized), so its native build script is not needed.
+allowBuilds:
+  sharp: false

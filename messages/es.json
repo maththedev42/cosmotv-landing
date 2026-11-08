@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "title": "CosmoTV: Series y Animes — sabe siempre qué episodio toca",
+    "description": "CosmoTV te muestra el próximo episodio de cada serie y anime que sigues, importa tu historial de TV Time y lo guarda todo en tu dispositivo. Muy pronto en iPhone, iPad, Android y la web.",
+    "ogTagline": "El próximo episodio de cada serie que sigues, siempre a mano."
+  },
+  "nav": {
+    "home": "Inicio de CosmoTV",
+    "features": "Funciones",
+    "product": "Por dentro",
+    "pricing": "Precios",
+    "faq": "Dudas",
+    "cta": "Avísame",
+    "menu": "Menú",
+    "skip": "Saltar al contenido",
+    "language": "Idioma"
+  },
+  "episodes": {
+    "next": "Siguiente episodio",
+    "hero": "Piloto",
+    "value": "Tu historial",
+    "features": "Día a día",
+    "product": "Por dentro",
+    "conversion": "Precios",
+    "faq": "Dudas",
+    "finalCta": "Estreno"
+  },
+  "hero": {
+    "eyebrow": "Para quien sigue muchas series, animes y películas",
+    "title": "Tu historia *continúa* aquí.",
+    "subtitle": "Se acabó adivinar en qué episodio te quedaste. CosmoTV tiene a mano el próximo episodio de cada serie, se trae tu historial de TV Time y lo guarda todo en tu dispositivo.",
+    "primaryCta": "Avísame en el lanzamiento",
+    "secondaryCta": "Ver la app por dentro",
+    "availability": "Se estrena pronto en",
+    "callouts": [
+      "Viendo, Terminada, Quiero ver",
+      "Un toque marca el episodio",
+      "Temas claro y oscuro",
+      "Funciona sin crear cuenta"
+    ]
+  },
+  "shots": {
+    "iphone": {
+      "home": {
+        "alt": "Biblioteca de CosmoTV en iPhone en temas claro y oscuro, con los totales de Viendo, Terminada y Quiero ver y las series de cada lista.",
+        "caption": "Tu biblioteca en tres listas, en claro o en oscuro."
+      },
+      "import": {
+        "alt": "Pantalla Importar datos de CosmoTV en iPhone leyendo un archivo CSV exportado de TV Time y reconociendo los títulos.",
+        "caption": "Un CSV de TV Time importándose: CosmoTV lee el archivo y reconoce cada título."
+      },
+      "discover": {
+        "alt": "Pestaña Descubrir de CosmoTV en iPhone con búsqueda, filtros de series, animes y películas, la tarjeta Descubrir con IA y las filas Para ti y Tendencias.",
+        "caption": "Descubrir: ideas según tu gusto, lo que es tendencia y búsqueda de series, animes y películas."
+      },
+      "rewind": {
+        "alt": "Rewind 2026 de CosmoTV en iPhone con los episodios y minutos vistos en el año y el botón Compartir.",
+        "caption": "Rewind 2026 con CosmoTV Pro: tu año en episodios y minutos, listo para compartir."
+      }
+    },
+    "ipad": {
+      "home": {
+        "alt": "Inicio de CosmoTV en iPad con la cola de próximos episodios, cada uno con el botón Marcar como visto.",
+        "caption": "La cola de próximos episodios en iPad."
+      },
+      "import": {
+        "alt": "Pantalla Importar datos de CosmoTV en iPad procesando un archivo exportado de TV Time fila a fila.",
+        "caption": "La importación de TV Time en iPad, procesando el archivo fila a fila."
+      },
+      "discover": {
+        "alt": "Pestaña Descubrir de CosmoTV en iPad con las filas Para ti, Tendencias, Estrenos y Animes en tendencia.",
+        "caption": "En iPad, Descubrir muestra Para ti, Tendencias, Estrenos y Animes en tendencia de un vistazo."
+      },
+      "rewind": {
+        "alt": "Rewind 2026 de CosmoTV en iPad con los episodios vistos en el año.",
+        "caption": "El Rewind 2026 en pantalla grande, parte de CosmoTV Pro."
+      }
+    }
+  },
+  "value": {
+    "eyebrow": "¿Vienes de TV Time?",
+    "title": "Años de historial no deberían quedarse atrás.",
+    "body": "Importa lo que viste en TV Time desde un archivo CSV o JSONL. CosmoTV reconoce cada título en el catálogo y te devuelve tu biblioteca lista para seguir.",
+    "points": [
+      {
+        "title": "Tráelo",
+        "text": "Importación de TV Time desde un archivo CSV o JSONL, en pocos pasos."
+      },
+      {
+        "title": "Guárdalo",
+        "text": "Sin crear cuenta, tu biblioteca se queda en tu dispositivo. Sincronizar entre dispositivos es opcional y forma parte de Pro."
+      },
+      {
+        "title": "Llévatelo",
+        "text": "Exporta todo cuando quieras, en CSV, JSON, PDF o Excel."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Menos buscar, más ver",
+    "title": "Tus series en orden, cada vez que abres la app.",
+    "subtitle": "Todo lo de esta lista es gratis. Pro añade estadísticas, sincronización y algunos extras.",
+    "queue": {
+      "title": "Siempre al día",
+      "text": "Una fila con el próximo episodio de cada serie que sigues. Lo marcas y la fila avanza."
+    },
+    "items": [
+      {
+        "icon": "film",
+        "title": "Películas para después",
+        "text": "Guarda películas para otra noche y marca las que ya viste."
+      },
+      {
+        "icon": "lists",
+        "title": "Cada cosa en su sitio",
+        "text": "Series, animes y películas en tres listas: Viendo, Terminada y Quiero ver. Cambia de lista desde cualquier pantalla."
+      },
+      {
+        "icon": "compass",
+        "title": "Descubre qué ver",
+        "text": "Ideas según tu gusto, estrenos y lo que se emite esta semana."
+      },
+      {
+        "icon": "bell",
+        "title": "Recordatorios gratis",
+        "text": "Un aviso el día que sale cada episodio nuevo de tus series."
+      },
+      {
+        "icon": "search",
+        "title": "Cualquier título, una búsqueda",
+        "text": "Busca series, animes y películas, mira los detalles y añádelos a tu biblioteca."
+      }
+    ],
+    "toy": {
+      "label": "Pruébalo: marca los episodios que has visto",
+      "season": "Temporada 1",
+      "next": "Siguiente",
+      "code": "T{s}·E{n}",
+      "done": "Temporada terminada",
+      "undo": "Deshacer",
+      "episode": "Episodio {n}",
+      "watched": "visto",
+      "unwatched": "sin ver"
+    }
+  },
+  "product": {
+    "eyebrow": "Por dentro de la app",
+    "title": "Mírala antes de instalarla.",
+    "body": "Pantallas reales de CosmoTV en iPhone y iPad. Elige una pantalla y un dispositivo.",
+    "storiesLabel": "Pantalla",
+    "devicesLabel": "Dispositivo",
+    "devices": {
+      "iphone": "iPhone",
+      "ipad": "iPad"
+    },
+    "stories": {
+      "discover": "Descubrir",
+      "rewind": "Tu año",
+      "import": "Importar"
+    },
+    "proTag": "Pro"
+  },
+  "pricing": {
+    "eyebrow": "Gratis para seguir. Pro para ir más allá.",
+    "title": "Lo esencial no cuesta nada.",
+    "subtitle": "Seguir series, marcar episodios, importar, exportar y recibir recordatorios es gratis. CosmoTV Pro añade lo que marca la diferencia para quien ve mucho.",
+    "free": {
+      "name": "Gratis",
+      "price": "Gratis",
+      "tagline": "Todo lo que necesitas para estar al día.",
+      "items": [
+        "El próximo episodio de cada serie",
+        "Series, animes y películas en tres listas",
+        "Descubrir y búsqueda",
+        "Recordatorios el día del estreno",
+        "Importación de TV Time y exportación de datos",
+        "Sin crear cuenta, con los datos en tu dispositivo"
+      ]
+    },
+    "pro": {
+      "name": "CosmoTV Pro",
+      "tagline": "Para quien vive de series.",
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "perMonth": "/ mes",
+      "perYear": "/ año",
+      "bestValue": "Mejor precio",
+      "save": "Ahorra un {percent}%",
+      "equivalent": "Sale a {price} al mes",
+      "items": [
+        "Sincronización entre tus dispositivos",
+        "Estadísticas de tiempo y hábitos",
+        "Tu Rewind 2026",
+        "Sugerencias con IA creadas en tu propio dispositivo",
+        "Listas ilimitadas",
+        "Widgets en la pantalla de inicio",
+        "Apariencia personalizada"
+      ],
+      "cta": "Avísame en el lanzamiento",
+      "note": "Suscripción mensual o anual con renovación automática, cobrada y cancelada desde la tienda de apps de tu dispositivo. Precios en reales brasileños (BRL)."
+    },
+    "platforms": {
+      "title": "Dónde se estrena",
+      "body": "Todavía no hay enlace de descarga. Cuando CosmoTV se estrene, te avisamos por correo.",
+      "soon": "Muy pronto",
+      "items": {
+        "iphone": "iPhone",
+        "ipad": "iPad",
+        "android": "Android",
+        "web": "Web"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Antes de que preguntes",
+    "title": "Dudas que llegan antes del estreno",
+    "items": [
+      {
+        "q": "¿Cuándo llega CosmoTV?",
+        "a": "Todavía no hay fecha. CosmoTV se estrenará en iPhone, iPad, Android y la web. Déjanos tu correo y te avisamos en cuanto puedas instalarla."
+      },
+      {
+        "q": "¿Puedo traer mi historial de TV Time?",
+        "a": "Sí. CosmoTV importa tu historial de TV Time desde un archivo CSV o JSONL y reconoce los títulos para montar tu biblioteca."
+      },
+      {
+        "q": "¿Tengo que crear una cuenta?",
+        "a": "No. Sin cuenta, tu biblioteca se queda en tu dispositivo. Sincronizar entre dispositivos es opcional y forma parte de CosmoTV Pro."
+      },
+      {
+        "q": "¿Cuánto cuesta CosmoTV Pro?",
+        "a": "{monthly} al mes o {yearly} al año, con renovación automática. El plan anual sale un {percent}% más barato que doce meses del mensual. Seguir series, marcar episodios, importar, exportar y los recordatorios siguen siendo gratis."
+      },
+      {
+        "q": "¿Puedo llevarme mis datos?",
+        "a": "Cuando quieras: exporta tu biblioteca en CSV, JSON, PDF o Excel. Si tienes cuenta, también puedes pedirnos que la eliminemos junto con sus datos."
+      },
+      {
+        "q": "¿Las sugerencias con IA envían mi biblioteca a algún servidor?",
+        "a": "No. Las sugerencias de Pro se crean en tu propio dispositivo y tu biblioteca no se envía a servicios de IA externos."
+      }
+    ],
+    "deleteLink": "Eliminar tu cuenta"
+  },
+  "finalCta": {
+    "eyebrow": "Muy pronto",
+    "title": "Sé el primero en saber cuándo se estrena CosmoTV.",
+    "body": "Te escribimos cuando CosmoTV esté lista para instalar en iPhone, iPad, Android y la web.",
+    "privacyNote": "Solo usamos tu correo para este aviso.",
+    "privacyLink": "Política de privacidad"
+  },
+  "androidTesters": {
+    "eyebrow": "Android",
+    "title": "Prueba CosmoTV en Android antes que nadie",
+    "body": "Google pide 12 testers durante 14 días antes de publicar la app para todos. Deja tu correo para recibir el enlace de la prueba y saber cuándo sale la versión final.",
+    "submit": "Quiero probar",
+    "privacyNote": "Usamos tu correo solo para el enlace de la prueba y para avisarte del lanzamiento.",
+    "step1": "1. Unirse al grupo de testers",
+    "step2": "2. Activar la prueba en Google Play",
+    "step3": "3. Instalar CosmoTV",
+    "successNote": "También enviamos estos enlaces por correo. Mantén la suscripción por 14 días, no hace falta usar la app todos los días.",
+    "heroLink": "¿Usas Android? Sé un tester"
+  },
+  "testerPage": {
+    "eyebrow": "Android",
+    "title": "Abre este enlace en tu Android",
+    "body": "CosmoTV debe estar instalado. Si aún no lo está, sigue los tres pasos y vuelve a este enlace.",
+    "incompleteBody": "Este enlace está incompleto. Abre el enlace del correo de bienvenida.",
+    "openInApp": "Abrir en CosmoTV",
+    "codeLabel": "Código",
+    "copy": "Copiar",
+    "copied": "Copiado"
+  },
+  "forms": {
+    "name": "Nombre",
+    "nameOptional": "Nombre (opcional)",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando…",
+    "successTitle": "Mensaje enviado.",
+    "successBody": "Lo hemos recibido y te responderemos al correo que nos diste.",
+    "invalid": "Revisa los campos: escribe un correo válido y rellena el mensaje.",
+    "rateLimited": "Demasiados envíos en poco tiempo. Vuelve a intentarlo en un momento.",
+    "rateLimitedRetry": "Demasiados envíos en poco tiempo. Vuelve a intentarlo en {seconds} segundos.",
+    "providerDown": "El envío de correos no está disponible ahora. Vuelve a intentarlo en un momento.",
+    "error": "No se ha podido enviar. Comprueba tu conexión y vuelve a intentarlo.",
+    "fallbackLabel": "También puedes escribir a",
+    "honeypot": "Deja este campo vacío",
+    "lead": {
+      "subject": "Lista de lanzamiento — CosmoTV",
+      "message": "Quiero que me aviséis cuando se estrene CosmoTV.",
+      "submit": "Avísame en el lanzamiento",
+      "successTitle": "Listo, ya estás en la lista.",
+      "successBody": "Te avisaremos por correo cuando CosmoTV esté disponible."
+    },
+    "contact": {
+      "subject": "Contacto desde la web — CosmoTV"
+    },
+    "deleteAccount": {
+      "subject": "Solicitud de eliminación de cuenta — CosmoTV",
+      "accountEmail": "Correo de la cuenta",
+      "reason": "Motivo (opcional)",
+      "confirm": "Entiendo que mi cuenta y los datos vinculados a ella se eliminarán de forma permanente.",
+      "confirmRequired": "Marca la confirmación para enviar la solicitud.",
+      "submit": "Solicitar la eliminación de la cuenta",
+      "messageTemplate": "Solicitud de eliminación de cuenta.\nCorreo de la cuenta: {email}\nMotivo: {reason}",
+      "noReason": "no indicado",
+      "successTitle": "Solicitud recibida.",
+      "successBody": "Te la confirmaremos en el correo de la cuenta y completaremos la eliminación en un plazo de 30 días."
+    }
+  },
+  "footer": {
+    "tagline": "Tu historia continúa aquí, en tu dispositivo.",
+    "productTitle": "Producto",
+    "legalTitle": "Ayuda y legal",
+    "links": {
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "support": "Soporte",
+      "contact": "Contacto",
+      "deleteAccount": "Eliminar cuenta"
+    },
+    "emailLabel": "Correo",
+    "attribution": "Datos de series proporcionados por TVmaze (CC BY-SA). Este producto usa la API de TMDB, pero no está respaldado ni certificado por TMDB.",
+    "honesty": "Aún no se ha estrenado: en esta página no hay descargas, valoraciones ni testimonios inventados.",
+    "rights": "© 2026 CosmoTV"
+  },
+  "legal": {
+    "updatedLabel": "Última actualización",
+    "backHome": "Volver a CosmoTV",
+    "privacy": {
+      "title": "Política de privacidad",
+      "description": "Qué datos usa CosmoTV, por qué y cómo los controlas.",
+      "intro": "Esta política explica qué datos usa CosmoTV, por qué los usa y cómo controlas cada uno. Se aplica a las apps de CosmoTV y a esta web.",
+      "sections": [
+        {
+          "title": "En resumen",
+          "paragraphs": [
+            "CosmoTV funciona sin cuenta. En ese modo, tu biblioteca, tu historial y tus preferencias se guardan en tu dispositivo y no nos llegan.",
+            "Cuando creas una cuenta o activas la sincronización, guardamos solo lo necesario para que tus datos se vean igual en todos tus dispositivos."
+          ],
+          "list": []
+        },
+        {
+          "title": "Datos que usamos y por qué",
+          "paragraphs": [],
+          "list": [
+            "Cuenta (opcional): correo, nombre y el identificador del inicio de sesión con Apple o Google, para crear y proteger tu cuenta.",
+            "Biblioteca sincronizada (opcional): series, animes y películas, episodios marcados, listas, recordatorios y preferencias de gusto, para mantener tus dispositivos iguales.",
+            "Suscripción: el estado de la compra de CosmoTV Pro y un identificador de cliente, gestionados por RevenueCat. Nunca recibimos los datos de tu tarjeta; el pago se hace a través de App Store o Google Play.",
+            "Uso y fallos: eventos de uso de la app (Firebase Analytics, en iPhone e iPad) e informes de fallos (Sentry, en iPhone e iPad), para ver qué falla y corregirlo.",
+            "Notificaciones: un token de notificación, cuando activas los avisos, para enviarte recordatorios de nuevos episodios. En Android, a través de Firebase Cloud Messaging.",
+            "Anuncios: la versión gratuita muestra anuncios de Google AdMob en iPhone, iPad y Android. En iPhone e iPad, la app te pide permiso de seguimiento (App Tracking Transparency) antes de cualquier anuncio personalizado; sin él, no se usa el identificador de publicidad. AdMob puede usar identificadores del dispositivo según el consentimiento que des. Los suscriptores de CosmoTV Pro no ven anuncios.",
+            "Importación y exportación: los archivos que importas (CSV o JSONL de TV Time) se leen para montar tu biblioteca. Las exportaciones se generan para que las guardes.",
+            "Formularios de esta web: nombre, correo y mensaje enviados en los formularios de contacto, lista de lanzamiento y eliminación de cuenta, para responder a tu solicitud."
+          ]
+        },
+        {
+          "title": "Sugerencias con IA",
+          "paragraphs": [
+            "Las sugerencias con IA de CosmoTV Pro se crean en tu propio dispositivo, con Apple Intelligence en iPhone e iPad o Gemini Nano en Android, cuando están disponibles. Tu biblioteca no se envía a servicios de IA externos."
+          ],
+          "list": []
+        },
+        {
+          "title": "Servicios de terceros",
+          "paragraphs": [],
+          "list": [
+            "RevenueCat — gestión de suscripciones.",
+            "Google Firebase — Analytics (iPhone e iPad) y Cloud Messaging (Android).",
+            "Sentry — informes de fallos (iPhone e iPad).",
+            "Google AdMob y Google User Messaging Platform — anuncios y consentimiento (iPhone, iPad y Android).",
+            "Sign in with Apple y Google Sign-In — inicio de sesión opcional.",
+            "Apple iCloud — sincronización en iPhone e iPad, cuando está activada.",
+            "TVmaze y TMDB — información de series y películas. Reciben las búsquedas en el catálogo, no tus datos personales.",
+            "Brevo — envío de los correos de los formularios de esta web."
+          ]
+        },
+        {
+          "title": "Cuánto tiempo guardamos los datos",
+          "paragraphs": [
+            "Los datos de tu dispositivo se quedan ahí hasta que los borres o elimines la app.",
+            "Los datos de la cuenta y de la biblioteca sincronizada se guardan mientras exista la cuenta. Tras una solicitud de eliminación confirmada, se borran en un plazo de 30 días.",
+            "Los informes de fallos y los eventos de uso siguen los plazos de conservación de Sentry y Firebase. Los mensajes de los formularios se guardan el tiempo necesario para atender la solicitud."
+          ],
+          "list": []
+        },
+        {
+          "title": "Tus derechos",
+          "paragraphs": [
+            "Puedes pedir acceso, rectificación, copia o eliminación de tus datos según el RGPD, la LGPD brasileña y demás leyes de protección de datos aplicables. Escribe a {email} y te responderemos desde la misma dirección.",
+            "Para exportar tu biblioteca, usa Exportar datos en la app. Para eliminar tu cuenta y los datos vinculados a ella, usa la página Eliminar cuenta."
+          ],
+          "list": []
+        },
+        {
+          "title": "Menores",
+          "paragraphs": [
+            "CosmoTV no está dirigida a menores de 13 años y no recoge sus datos de forma intencionada."
+          ],
+          "list": []
+        },
+        {
+          "title": "Cambios en esta política",
+          "paragraphs": [
+            "Cuando esta política cambie, actualizaremos la fecha de la parte superior de esta página."
+          ],
+          "list": []
+        }
+      ]
+    },
+    "terms": {
+      "title": "Términos de uso",
+      "description": "Las reglas de uso de las apps y la web de CosmoTV.",
+      "intro": "Estos términos se aplican a las apps de CosmoTV y a esta web. Al usar CosmoTV, los aceptas.",
+      "sections": [
+        {
+          "title": "El servicio",
+          "paragraphs": [
+            "CosmoTV te ayuda a seguir series, animes y películas: saber el próximo episodio, marcar lo que has visto, organizar listas y recibir recordatorios. Algunas funciones forman parte de la suscripción CosmoTV Pro."
+          ],
+          "list": []
+        },
+        {
+          "title": "Tu cuenta",
+          "paragraphs": [
+            "Crear una cuenta es opcional. Si la creas, mantén tu acceso seguro y avísanos si sospechas un uso indebido. Puedes eliminar tu cuenta en cualquier momento desde la página Eliminar cuenta."
+          ],
+          "list": []
+        },
+        {
+          "title": "CosmoTV Pro",
+          "paragraphs": [
+            "CosmoTV Pro cuesta {monthly} al mes o {yearly} al año y se renueva automáticamente. El cobro lo hace App Store o Google Play cuando confirmas la compra.",
+            "La suscripción se renueva salvo que se cancele al menos 24 horas antes del final del periodo actual. La gestionas y cancelas en los ajustes de tu cuenta de la tienda. Los reembolsos siguen las reglas de la tienda donde hiciste la compra."
+          ],
+          "list": []
+        },
+        {
+          "title": "Tus datos",
+          "paragraphs": [
+            "Tu biblioteca y tu historial son tuyos. Puedes exportarlos cuando quieras y pedir la eliminación de tu cuenta. El uso de los datos se describe en la Política de privacidad."
+          ],
+          "list": []
+        },
+        {
+          "title": "Contenido de terceros",
+          "paragraphs": [
+            "La información, las imágenes y los pósteres de series y películas proceden de TVmaze (CC BY-SA) y TMDB y pertenecen a sus titulares. CosmoTV usa la API de TMDB, pero no está respaldado ni certificado por TMDB. CosmoTV no emite vídeo."
+          ],
+          "list": []
+        },
+        {
+          "title": "Propiedad intelectual",
+          "paragraphs": [
+            "La app, la marca CosmoTV y su diseño pertenecen a sus responsables. No puedes copiar, revender ni aplicar ingeniería inversa a la app, salvo cuando la ley lo permita."
+          ],
+          "list": []
+        },
+        {
+          "title": "Uso aceptable",
+          "paragraphs": [
+            "No uses CosmoTV para infringir la ley, sobrecargar o atacar nuestros sistemas ni acceder a datos de otras personas."
+          ],
+          "list": []
+        },
+        {
+          "title": "Garantías y responsabilidad",
+          "paragraphs": [
+            "CosmoTV se ofrece tal cual. Trabajamos para que las fechas de emisión y los datos de las series sean correctos, pero proceden de fuentes externas y pueden contener errores. En la medida en que la ley lo permita, no respondemos de daños indirectos derivados del uso de la app."
+          ],
+          "list": []
+        },
+        {
+          "title": "Fin del servicio",
+          "paragraphs": [
+            "Puedes dejar de usar CosmoTV cuando quieras. Podemos suspender cuentas que incumplan estos términos. Como tus datos viven en tu dispositivo y se pueden exportar, siguen contigo incluso sin el servicio en línea."
+          ],
+          "list": []
+        },
+        {
+          "title": "Ley aplicable",
+          "paragraphs": [
+            "Estos términos se rigen por las leyes de Brasil, incluido el Código de Defensa del Consumidor. Los conflictos se resolverán en los tribunales del domicilio del consumidor."
+          ],
+          "list": []
+        },
+        {
+          "title": "Contacto",
+          "paragraphs": [
+            "Dudas sobre estos términos: {email}."
+          ],
+          "list": []
+        }
+      ]
+    },
+    "support": {
+      "title": "Soporte",
+      "description": "Respuestas a las dudas más comunes sobre CosmoTV y cómo contactarnos.",
+      "intro": "Respuestas rápidas a las dudas más habituales. Si la tuya no está aquí, escríbenos.",
+      "faqTitle": "Dudas habituales",
+      "faq": [
+        {
+          "q": "¿Cómo importo mi historial de TV Time?",
+          "a": "En la app, abre Ajustes y elige Importar datos. Selecciona tu archivo CSV o JSONL de TV Time y espera a que CosmoTV reconozca los títulos."
+        },
+        {
+          "q": "¿Cómo exporto mis datos?",
+          "a": "En Ajustes, elige Exportar datos y un formato: CSV, JSON, PDF o Excel."
+        },
+        {
+          "q": "¿Cómo cancelo CosmoTV Pro?",
+          "a": "La suscripción la gestiona la tienda de apps. En iPhone e iPad, ve a Ajustes > tu nombre > Suscripciones. En Android, abre Google Play > Pagos y suscripciones > Suscripciones."
+        },
+        {
+          "q": "He cambiado de dispositivo. ¿Cómo recupero mi biblioteca?",
+          "a": "Con la sincronización de CosmoTV Pro activada, tu biblioteca aparece en el nuevo dispositivo al iniciar sesión con la misma cuenta. Sin sincronización, los datos se quedan en el dispositivo antiguo, así que exporta una copia antes de cambiar."
+        },
+        {
+          "q": "No me llegan los recordatorios de episodios.",
+          "a": "Comprueba que las notificaciones de CosmoTV están permitidas en los ajustes del sistema y que el recordatorio está activado en la página de la serie."
+        }
+      ],
+      "helpTitle": "¿Todavía necesitas ayuda?",
+      "helpBody": "Escribe a {email} o usa el formulario de contacto. Cuéntanos qué dispositivo usas y qué ha pasado.",
+      "contactCta": "Abrir el formulario de contacto",
+      "deleteCta": "Eliminar mi cuenta"
+    },
+    "contact": {
+      "title": "Habla con el equipo",
+      "description": "Envía un mensaje al equipo de CosmoTV.",
+      "intro": "Dudas, ideas o problemas con la app: envíanos un mensaje y te responderemos por correo.",
+      "formTitle": "Enviar un mensaje",
+      "emailTitle": "¿Prefieres el correo?",
+      "emailBody": "Escríbenos directamente a"
+    },
+    "deleteAccount": {
+      "title": "Eliminar cuenta",
+      "description": "Solicita la eliminación de tu cuenta de CosmoTV y de sus datos.",
+      "intro": "Usa este formulario para pedirnos que eliminemos tu cuenta de CosmoTV y los datos vinculados a ella.",
+      "whatTitle": "Qué se elimina",
+      "what": [
+        "Tu cuenta y el inicio de sesión con Apple o Google vinculado a ella.",
+        "Tu biblioteca sincronizada: series, animes, películas, episodios marcados y listas.",
+        "Recordatorios, preferencias e historial guardados en nuestros servidores."
+      ],
+      "keepTitle": "Qué no elimina esta solicitud",
+      "keep": [
+        "Los datos guardados solo en tu dispositivo: elimina la app para borrarlos.",
+        "Tu suscripción a CosmoTV Pro: cancélala en App Store o Google Play para que no se te vuelva a cobrar.",
+        "Los registros que la ley nos obliga a conservar, durante el plazo que exija."
+      ],
+      "timeTitle": "Plazo",
+      "timeBody": "Confirmamos la solicitud en el correo que nos indiques y completamos la eliminación en un plazo de 30 días. La eliminación no se puede deshacer.",
+      "tip": "¿Quieres una copia? Exporta tu biblioteca en Ajustes > Exportar datos antes de enviar la solicitud.",
+      "formTitle": "Solicitar la eliminación"
+    }
+  }
+}
