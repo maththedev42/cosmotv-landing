@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,71868,t=>{"use strict";var e=t.i(36419);t.s(["MotionReady",0,function(){return(0,e.useEffect)(()=>{document.documentElement.classList.add("motion-hydrated")},[]),null}])}]);
