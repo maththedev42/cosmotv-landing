@@ -1,11 +1,16 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.cosmohq.cosmotv",
-    "sha256_cert_fingerprints": [
-      "32:BA:62:C9:F8:C2:70:D2:9D:68:A8:55:54:C7:3F:91:D7:7F:7E:86:DB:47:FC:6F:E4:F7:5A:99:97:7E:80:DF",
-      "E0:C2:0C:E4:2C:04:AC:EA:0F:DE:02:31:02:BE:22:B3:8F:6F:A4:77:10:9C:D3:77:6D:2F:EC:35:63:FF:96:31"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cosmohq.cosmotv",
+      "sha256_cert_fingerprints": [
+        "2C:AD:64:D2:89:A6:A1:8B:6A:78:99:FF:64:00:F5:72:5B:44:31:23:9E:DC:00:39:34:70:64:FB:FC:45:1D:05",
+        "32:BA:62:C9:F8:C2:70:D2:9D:68:A8:55:54:C7:3F:91:D7:7F:7E:86:DB:47:FC:6F:E4:F7:5A:99:97:7E:80:DF",
+        "E0:C2:0C:E4:2C:04:AC:EA:0F:DE:02:31:02:BE:22:B3:8F:6F:A4:77:10:9C:D3:77:6D:2F:EC:35:63:FF:96:31"
+      ]
+    }
   }
-}]
+]

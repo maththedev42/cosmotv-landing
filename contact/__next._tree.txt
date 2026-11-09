@@ -4,4 +4,4 @@
 :HL["/_next/static/media/8d05cfa5faa8406c-s.p.0kbulo~7o8gic.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/dc0d9adbac686440-s.p.0~z396rbj0t4w.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/brand/icon-512.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(default)","param":null,"prefetchHints":16,"slots":{"children":{"name":"contact","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kzREPLuAVsAEoTv9IC9Ow"}
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(default)","param":null,"prefetchHints":16,"slots":{"children":{"name":"contact","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"__82RYT2BYHhKYLKrQunw"}
